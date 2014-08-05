@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Wilbert ESP",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "0xbrock",
+    "githubRepository": "wilbert-spotlight"
+  }
+}
