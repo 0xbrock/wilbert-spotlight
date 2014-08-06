@@ -1,12 +1,6 @@
 
 # Wilbert ESP
 
-From the terminal, pop in:
+Brock Moeller
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
-
-<input type="button" onclick="Reveal.toggleOverview();" value="Overview" />
+  ``2014-08-07``

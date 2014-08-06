@@ -1,7 +1,15 @@
 ##  Design Patterns
 
-This is a new Markdown slide
+MVVM
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+IoC
+
+DI
+
+ServiceLocator
+
+Unit of Work
+
+Service Bus
+
+Single Sign On

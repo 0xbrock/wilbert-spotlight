@@ -1,7 +1,10 @@
 ##  Client Side
 
-This is a new Markdown slide
+HTML5/CSS3/Javascript
+AngularJS
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Highlights:
+
+``Splash Screen - Slide Show - Video - 3D Carousel``
+
+``Image Upload``

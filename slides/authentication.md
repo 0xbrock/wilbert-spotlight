@@ -1,7 +1,7 @@
 ##  Authentication
 
-This is a new Markdown slide
+Used a Single Sign On from their Wilbert Direct store site.
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- Cyber Store Connect
+- Custom Authentication Handling
+- Similar to how ADFS works

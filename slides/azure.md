@@ -7,5 +7,6 @@
     - Streaming Video
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Difficulties
+- Video Streaming from Blob Storage
+-

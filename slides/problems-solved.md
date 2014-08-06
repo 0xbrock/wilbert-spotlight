@@ -1,7 +1,3 @@
 ##  Problems Solved
 
-This is a new Markdown slide
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+They needed a way to help funeral homes guide customers through the vault selection process.

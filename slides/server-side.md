@@ -1,7 +1,11 @@
 ##  Server Side
 
-This is a new Markdown slide
+MVC5
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+WebAPI 2
+
+EF 6 Code First w/ Migrations
+
+Ninject IoC and DI
+
+ASP.NET Identities

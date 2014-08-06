@@ -1,29 +1,15 @@
 [
     "index.md",
-    {
-        "filename": "wilbert.md"
-    },
-    {
-        "filename": "problems-solved.md"
-    },
-    {
-        "filename": "the-team.md"
-    },
+    "wilbert.md",
+    "problems-solved.md",
+    "the-team.md",
     [
-        {
-            "filename": "the-stack.md"
-        },
-        {
-            "filename": "authentication.md"
-        },
-        {
-            "filename": "client-side.md"
-        },
-        {
-            "filename": "server-side.md"
-        },
+        "the-stack.md",
+        "authentication.md",
+        "client-side.md",
+        "server-side.md",
         "azure.md"
     ],
-    "credits.md",
-    "design-patterns.md"
+    "design-patterns.md",
+    "demo.md"
 ]
